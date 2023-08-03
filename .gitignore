@@ -6,7 +6,8 @@ CodeDir
 rundir.version
 *~
 *#
-*.nc
+GCHP_restart.nc4
+initial_*fullchem.nc
 *.nc4
 *.log
 EGRESS
