@@ -58,18 +58,18 @@ GRID_LABELS: PE24x144-CF
 #==============================================================================
 COLLECTIONS:
              #'DefaultCollection', 
-             'Restart',
-             'MercuryEmis',
-             'MercuryChem',
+             #'Restart',
+             #'MercuryEmis',
+             #'MercuryChem',
              #'MercuryOcean',
-             'SpeciesConc', 
+             #'SpeciesConc', 
              #'Budget',
              #'CloudConvFlux',
-             'DryDep',
+             #'DryDep',
              #'LevelEdgeDiags,
-             'StateMet',
-             'WetLossConv',
-             'WetLossLS',
+             #'StateMet',
+             #'WetLossConv',
+             #'WetLossLS',
              #'BoundaryConditions', #I don't think it makes sense to have boundary condition output for GCHP?
 ::
 #==============================================================================
