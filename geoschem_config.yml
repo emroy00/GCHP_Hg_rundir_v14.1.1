@@ -48,8 +48,8 @@ operations:
   photolysis:
     input_dir: /net/geoschem/data/gcgrid/data/ExtData//CHEM_INPUTS/FAST_JX/v2022-08-Hg/
     overhead_O3:
-      use_online_O3_from_model: true
-      use_column_O3_from_met: true
+      use_online_O3_from_model: false
+      use_column_O3_from_met: false
       use_TOMS_SBUV_O3: false
 
   transport:

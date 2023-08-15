@@ -62,13 +62,13 @@ Warnings:                    1
     --> CHAKRABORTY            :       false    # 2010
     --> EMISS_CONTROLS         :       false    # 2010
 # ----- GLOBAL INVENTORIES ----------------------------------------------------
-    --> AMAP_COMB              :       false    # 2010
-    --> AMAP_INDS              :       false    # 2010
-    --> AMAP_INTW              :       false    # 2010
-    --> GMA_ASGM               :       true     # 2015
-    --> GMA_POWERGEN           :       true     # 2015
-    --> GMA_INDS               :       true     # 2015
-    --> GMA_INTW               :       true     # 2015
+    --> AMAP_COMB              :       true     # 2010
+    --> AMAP_INDS              :       true     # 2010
+    --> AMAP_INTW              :       true     # 2010
+    --> GMA_ASGM               :       false    # 2015
+    --> GMA_POWERGEN           :       false    # 2015
+    --> GMA_INDS               :       false    # 2015
+    --> GMA_INTW               :       false    # 2015
     --> WHET                   :       false    # 2010
     --> STREETS                :       false    # 2015
     --> ARTISANAL              :       false    # 1985
@@ -116,8 +116,8 @@ Warnings:                    1
     --> LHGAQCHEM              :       true
     --> LOHO3CHEM              :       false
     --> LRED_INPLUME           :       false
-    --> OLSON_LANDMAP          :       true     # 1985
-    --> YUAN_MODIS_LAI         :       true     # 2000-2020
+    --> OLSON_LANDMAP          :       false     # 1985
+    --> YUAN_MODIS_LAI         :       false     # 2000-2020
 
 ### END SECTION EXTENSION SWITCHES ###
 
