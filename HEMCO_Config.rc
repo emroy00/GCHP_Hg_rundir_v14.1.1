@@ -111,7 +111,7 @@ Warnings:                    1
 # ----- NON-EMISSIONS DATA ----------------------------------------------------
     --> OXIDANT_FIELDS         :       true     # 2010-2019
     --> OCEAN_Hg               :       true     # 1985,2003,2009
-    --> TOMS_SBUV_O3           :       true     # 1971-2010
+    --> TOMS_SBUV_O3           :       false    # 1971-2010
     --> LHALOGENCHEM           :       true
     --> LHGAQCHEM              :       true
     --> LOHO3CHEM              :       false
