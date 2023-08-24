@@ -260,8 +260,8 @@ COLLECTIONS:
 # Available for the Hg and tagged Hg simulations
 #==============================================================================
   MercuryOcean.template:      '%y4%m2%d2_%h2%n2z.nc4',
-  MercuryOcean.frequency:     00000100 000000
-  MercuryOcean.duration:      00000100 000000
+  MercuryOcean.frequency:     010000
+  MercuryOcean.duration:      010000
   MercuryOcean.mode:          'time-averaged'
   MercuryOcean.fields:        'FluxHg0fromAirToOcean         ', 'GCHPchem',
                               'FluxHg0fromOceanToAir         ', 'GCHPchem',

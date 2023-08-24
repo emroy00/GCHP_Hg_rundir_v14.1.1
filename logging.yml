@@ -86,13 +86,13 @@ loggers:
        
    MAPL:
        handlers: [mpi_shared]
-       level: WARNING
-       root_level: WARNING
+       level: DEBUG
+       root_level: DEBUG
        
    CAP.EXTDATA:
        handlers: [mpi_shared]
-       level: WARNING
-       root_level: WARNING
+       level: DEBUG
+       root_level: DEBUG
        propagate: false
    
    GCHPctmEnv:

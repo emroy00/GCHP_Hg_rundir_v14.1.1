@@ -338,6 +338,13 @@ AMAP_INTW_HG2 kg/m2/s N Y - none none Hg2 ./HcoDir/MERCURY/v2014-09/AMAP/AMAP_in
 AMAP_INTW_HGP kg/m2/s N Y - none none HgP ./HcoDir/MERCURY/v2014-09/AMAP/AMAP_intw.0.5x0.5.2010.nc
 #
 #==============================================================================
+# WHET emissions inventory
+#==============================================================================
+WHET_HG0 kg/m2/s N Y - none none Hg0 ./HcoDir/MERCURY/v2018-04/WHET_Hg0.geos.1x1.2010_final.nc
+WHET_HG2 kg/m2/s N Y - none none Hg2 ./HcoDir/MERCURY/v2018-04/WHET_Hg2.geos.1x1.2010_final.nc
+WHET_HGP kg/m2/s N Y - none none HgP ./HcoDir/MERCURY/v2018-04/WHET_HgP.geos.1x1.2010_final.nc
+#
+#==============================================================================
 # --- Streets et al. 2019 emissions inventory ---
 # STREETS is off by default in HEMCO_Config.rc
 # Needs more investigation, commenting out for now. 16 time steps?
@@ -440,12 +447,12 @@ ARTISANAL_HG0  kg/m2/s N Y - none 0.75 Hg0 ./HcoDir/MERCURY/v2014-09/ARTISANAL/a
 #==============================================================================
 # --- Natural emissions ---
 #==============================================================================
-NATURAL_HG0  kg/m2/s N Y - none 0.5 Hg0 ./HcoDir/MERCURY/v2014-09/NATURAL/newnatural.geos.4x5.nc
+NATURAL_HG0  kg/m2/s N Y - none 0.5 Hg0 ./HcoDir/MERCURY/v2014-09/NATURAL/GCHP_friendly/newnatural.geos.4x5.nc
 #
 #==============================================================================
 # --- Soil distribution factor (pointer is imported in mercury_mod.F) ---
 #==============================================================================
-HG0_SOILDIST 1 N Y - none 0.5 HG0_DIST ./HcoDir/MERCURY/v2014-09/SOIL/soilHg.presentday.v11-01.geosfp.4x5.nc
+HG0_SOILDIST 1 N Y - none 0.5 HG0_DIST ./HcoDir/MERCURY/v2014-09/SOIL/GCHP_friendly/soilHg.presentday.v11-01.geosfp.4x5.nc
 #
 #==============================================================================
 # --- QFED2 biomass burning (QFED2) ---
