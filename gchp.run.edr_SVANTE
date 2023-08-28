@@ -28,7 +28,7 @@ source checkRunSettings.sh >> ${log}
 NX=$( grep NX GCHP.rc | awk '{print $2}' )
 NY=$( grep NY GCHP.rc | awk '{print $2}' )
 coreCount=$(( ${NX} * ${NY} ))
-time mpirun -n ${coreCount} ./CodeDir/build.edr/bin/gchp >> ${log}
+time mpirun -n ${coreCount} ./CodeDir/build.edr.Hg/bin/gchp >> ${log}
 
 
 # Rename and move restart file and update restart symlink if new start time ok

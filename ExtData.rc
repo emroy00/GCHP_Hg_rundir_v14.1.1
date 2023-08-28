@@ -503,76 +503,76 @@ TIMEZONES count N V - none none UTC_OFFSET ./HcoDir/TIMEZONES/v2015-02/timezones
 #==============================================================================
 # --- Oxidant fields ---
 #==============================================================================
-GLOBAL_Br  1 Y Y F2016-%m2-01T00:00:00 none none Br ./HcoDir/MERCURY/v2022-04/Oxidants_for_Hg_sim_2016.nc4
-GLOBAL_BrO 1 Y Y F2016-%m2-01T00:00:00 none none Br0 ./HcoDir/MERCURY/v2022-04/Oxidants_for_Hg_sim_2016.nc4
-GLOBAL_CH4 1 Y Y F2016-%m2-01T00:00:00 none none CH4 ./HcoDir/MERCURY/v2022-04/Oxidants_for_Hg_sim_2016.nc4
-GLOBAL_Cl  1 Y Y F2016-%m2-01T00:00:00 none none Cl ./HcoDir/MERCURY/v2022-04/Oxidants_for_Hg_sim_2016.nc4
-GLOBAL_ClO 1 Y Y F2016-%m2-01T00:00:00 none none ClO ./HcoDir/MERCURY/v2022-04/Oxidants_for_Hg_sim_2016.nc4
-GLOBAL_CO  1 Y Y F2016-%m2-01T00:00:00 none none CO ./HcoDir/MERCURY/v2022-04/Oxidants_for_Hg_sim_2016.nc4
-GLOBAL_HO2 1 Y Y F2016-%m2-01T00:00:00 none none HO2 ./HcoDir/MERCURY/v2022-04/Oxidants_for_Hg_sim_2016.nc4
-GLOBAL_NO  1 Y Y F2016-%m2-01T00:00:00 none none NO ./HcoDir/MERCURY/v2022-04/Oxidants_for_Hg_sim_2016.nc4
-GLOBAL_NO2 1 Y Y F2016-%m2-01T00:00:00 none none NO2 ./HcoDir/MERCURY/v2022-04/Oxidants_for_Hg_sim_2016.nc4
-GLOBAL_O3  1 Y Y F2016-%m2-01T00:00:00 none none O3 ./HcoDir/MERCURY/v2022-04/Oxidants_for_Hg_sim_2016.nc4
-GLOBAL_OH  1 Y Y F2016-%m2-01T00:00:00 none none OH ./HcoDir/MERCURY/v2022-04/Oxidants_for_Hg_sim_2016.nc4
+GLOBAL_Br  1 Y Y F2016-%m2-01T00:00:00 none none Br ./HcoDir/MERCURY/v2022-04/GCHP_friendly/Oxidants_for_Hg_sim_2016.nc4
+GLOBAL_BrO 1 Y Y F2016-%m2-01T00:00:00 none none Br0 ./HcoDir/MERCURY/v2022-04/GCHP_friendly/Oxidants_for_Hg_sim_2016.nc4
+GLOBAL_CH4 1 Y Y F2016-%m2-01T00:00:00 none none CH4 ./HcoDir/MERCURY/v2022-04/GCHP_friendly/Oxidants_for_Hg_sim_2016.nc4
+GLOBAL_Cl  1 Y Y F2016-%m2-01T00:00:00 none none Cl ./HcoDir/MERCURY/v2022-04/GCHP_friendly/Oxidants_for_Hg_sim_2016.nc4
+GLOBAL_ClO 1 Y Y F2016-%m2-01T00:00:00 none none ClO ./HcoDir/MERCURY/v2022-04/GCHP_friendly/Oxidants_for_Hg_sim_2016.nc4
+GLOBAL_CO  1 Y Y F2016-%m2-01T00:00:00 none none CO ./HcoDir/MERCURY/v2022-04/GCHP_friendly/Oxidants_for_Hg_sim_2016.nc4
+GLOBAL_HO2 1 Y Y F2016-%m2-01T00:00:00 none none HO2 ./HcoDir/MERCURY/v2022-04/GCHP_friendly/Oxidants_for_Hg_sim_2016.nc4
+GLOBAL_NO  1 Y Y F2016-%m2-01T00:00:00 none none NO ./HcoDir/MERCURY/v2022-04/GCHP_friendly/Oxidants_for_Hg_sim_2016.nc4
+GLOBAL_NO2 1 Y Y F2016-%m2-01T00:00:00 none none NO2 ./HcoDir/MERCURY/v2022-04/GCHP_friendly/Oxidants_for_Hg_sim_2016.nc4
+GLOBAL_O3  1 Y Y F2016-%m2-01T00:00:00 none none O3 ./HcoDir/MERCURY/v2022-04/GCHP_friendly/Oxidants_for_Hg_sim_2016.nc4
+GLOBAL_OH  1 Y Y F2016-%m2-01T00:00:00 none none OH ./HcoDir/MERCURY/v2022-04/GCHP_friendly/Oxidants_for_Hg_sim_2016.nc4
 
 # --- Aerosol optical depths [unitless], for 2010-2019 ---
 # Consider supplying other years as necessary
-AOD_BC     1 Y Y F2016-%m2-01T00:00:00 none none AOD_BC ./HcoDir/MERCURY/v2022-04/Aerosols_for_Hg_sim_2016.nc4
-AOD_BGSULF 1 Y Y F2016-%m2-01T00:00:00 none none AOD_BGSULF ./HcoDir/MERCURY/v2022-04/Aerosols_for_Hg_sim_2016.nc4
-AOD_DST1   1 Y Y F2016-%m2-01T00:00:00 none none AOD_DST1 ./HcoDir/MERCURY/v2022-04/Aerosols_for_Hg_sim_2016.nc4
-AOD_DST2   1 Y Y F2016-%m2-01T00:00:00 none none AOD_DST2 ./HcoDir/MERCURY/v2022-04/Aerosols_for_Hg_sim_2016.nc4
-AOD_DST3   1 Y Y F2016-%m2-01T00:00:00 none none AOD_DST3 ./HcoDir/MERCURY/v2022-04/Aerosols_for_Hg_sim_2016.nc4
-AOD_DST4   1 Y Y F2016-%m2-01T00:00:00 none none AOD_DST4 ./HcoDir/MERCURY/v2022-04/Aerosols_for_Hg_sim_2016.nc4
-AOD_DST5   1 Y Y F2016-%m2-01T00:00:00 none none AOD_DST5 ./HcoDir/MERCURY/v2022-04/Aerosols_for_Hg_sim_2016.nc4
-AOD_DST6   1 Y Y F2016-%m2-01T00:00:00 none none AOD_DST6 ./HcoDir/MERCURY/v2022-04/Aerosols_for_Hg_sim_2016.nc4
-AOD_DST7   1 Y Y F2016-%m2-01T00:00:00 none none AOD_DST7 ./HcoDir/MERCURY/v2022-04/Aerosols_for_Hg_sim_2016.nc4
-AOD_ICEI   1 Y Y F2016-%m2-01T00:00:00 none none AOD_ICEI ./HcoDir/MERCURY/v2022-04/Aerosols_for_Hg_sim_2016.nc4
-AOD_OC     1 Y Y F2016-%m2-01T00:00:00 none none AOD_OC ./HcoDir/MERCURY/v2022-04/Aerosols_for_Hg_sim_2016.nc4
-AOD_SO4    1 Y Y F2016-%m2-01T00:00:00 none none AOD_SO4 ./HcoDir/MERCURY/v2022-04/Aerosols_for_Hg_sim_2016.nc4
-AOD_SSA    1 Y Y F2016-%m2-01T00:00:00 none none AOD_SSA ./HcoDir/MERCURY/v2022-04/Aerosols_for_Hg_sim_2016.nc4
-AOD_SSC    1 Y Y F2016-%m2-01T00:00:00 none none AOD_SSC ./HcoDir/MERCURY/v2022-04/Aerosols_for_Hg_sim_2016.nc4
+AOD_BC     1 Y Y F2016-%m2-01T00:00:00 none none AOD_BC ./HcoDir/MERCURY/v2022-04/GCHP_friendly/Aerosols_for_Hg_sim_2016.nc4
+AOD_BGSULF 1 Y Y F2016-%m2-01T00:00:00 none none AOD_BGSULF ./HcoDir/MERCURY/v2022-04/GCHP_friendly/Aerosols_for_Hg_sim_2016.nc4
+AOD_DST1   1 Y Y F2016-%m2-01T00:00:00 none none AOD_DST1 ./HcoDir/MERCURY/v2022-04/GCHP_friendly/Aerosols_for_Hg_sim_2016.nc4
+AOD_DST2   1 Y Y F2016-%m2-01T00:00:00 none none AOD_DST2 ./HcoDir/MERCURY/v2022-04/GCHP_friendly/Aerosols_for_Hg_sim_2016.nc4
+AOD_DST3   1 Y Y F2016-%m2-01T00:00:00 none none AOD_DST3 ./HcoDir/MERCURY/v2022-04/GCHP_friendly/Aerosols_for_Hg_sim_2016.nc4
+AOD_DST4   1 Y Y F2016-%m2-01T00:00:00 none none AOD_DST4 ./HcoDir/MERCURY/v2022-04/GCHP_friendly/Aerosols_for_Hg_sim_2016.nc4
+AOD_DST5   1 Y Y F2016-%m2-01T00:00:00 none none AOD_DST5 ./HcoDir/MERCURY/v2022-04/GCHP_friendly/Aerosols_for_Hg_sim_2016.nc4
+AOD_DST6   1 Y Y F2016-%m2-01T00:00:00 none none AOD_DST6 ./HcoDir/MERCURY/v2022-04/GCHP_friendly/Aerosols_for_Hg_sim_2016.nc4
+AOD_DST7   1 Y Y F2016-%m2-01T00:00:00 none none AOD_DST7 ./HcoDir/MERCURY/v2022-04/GCHP_friendly/Aerosols_for_Hg_sim_2016.nc4
+AOD_ICEI   1 Y Y F2016-%m2-01T00:00:00 none none AOD_ICEI ./HcoDir/MERCURY/v2022-04/GCHP_friendly/Aerosols_for_Hg_sim_2016.nc4
+AOD_OC     1 Y Y F2016-%m2-01T00:00:00 none none AOD_OC ./HcoDir/MERCURY/v2022-04/GCHP_friendly/Aerosols_for_Hg_sim_2016.nc4
+AOD_SO4    1 Y Y F2016-%m2-01T00:00:00 none none AOD_SO4 ./HcoDir/MERCURY/v2022-04/GCHP_friendly/Aerosols_for_Hg_sim_2016.nc4
+AOD_SSA    1 Y Y F2016-%m2-01T00:00:00 none none AOD_SSA ./HcoDir/MERCURY/v2022-04/GCHP_friendly/Aerosols_for_Hg_sim_2016.nc4
+AOD_SSC    1 Y Y F2016-%m2-01T00:00:00 none none AOD_SSC ./HcoDir/MERCURY/v2022-04/GCHP_friendly/Aerosols_for_Hg_sim_2016.nc4
 
 # --- Aerosol areas [cm2/cm3], for 2010-2019 ---
 # Consider supplying other years as necessary
-Area_BC     1 Y Y F2016-%m2-01T00:00:00 none none Area_BC ./HcoDir/MERCURY/v2022-04/Aerosols_for_Hg_sim_2016.nc4
-Area_BGSULF 1 Y Y F2016-%m2-01T00:00:00 none none Area_BGSULF ./HcoDir/MERCURY/v2022-04/Aerosols_for_Hg_sim_2016.nc4
-Area_DST1   1 Y Y F2016-%m2-01T00:00:00 none none Area_DST1 ./HcoDir/MERCURY/v2022-04/Aerosols_for_Hg_sim_2016.nc4
-Area_DST2   1 Y Y F2016-%m2-01T00:00:00 none none Area_DST2 ./HcoDir/MERCURY/v2022-04/Aerosols_for_Hg_sim_2016.nc4
-Area_DST3   1 Y Y F2016-%m2-01T00:00:00 none none Area_DST3 ./HcoDir/MERCURY/v2022-04/Aerosols_for_Hg_sim_2016.nc4
-Area_DST4   1 Y Y F2016-%m2-01T00:00:00 none none Area_DST4 ./HcoDir/MERCURY/v2022-04/Aerosols_for_Hg_sim_2016.nc4
-Area_DST5   1 Y Y F2016-%m2-01T00:00:00 none none Area_DST5 ./HcoDir/MERCURY/v2022-04/Aerosols_for_Hg_sim_2016.nc4
-Area_DST6   1 Y Y F2016-%m2-01T00:00:00 none none Area_DST6 ./HcoDir/MERCURY/v2022-04/Aerosols_for_Hg_sim_2016.nc4
-Area_DST7   1 Y Y F2016-%m2-01T00:00:00 none none Area_DST7 ./HcoDir/MERCURY/v2022-04/Aerosols_for_Hg_sim_2016.nc4
-Area_ICEI   1 Y Y F2016-%m2-01T00:00:00 none none Area_ICEI ./HcoDir/MERCURY/v2022-04/Aerosols_for_Hg_sim_2016.nc4
-Area_OC     1 Y Y F2016-%m2-01T00:00:00 none none Area_OC ./HcoDir/MERCURY/v2022-04/Aerosols_for_Hg_sim_2016.nc4
-Area_SO4    1 Y Y F2016-%m2-01T00:00:00 none none Area_SO4 ./HcoDir/MERCURY/v2022-04/Aerosols_for_Hg_sim_2016.nc4
-Area_SSA    1 Y Y F2016-%m2-01T00:00:00 none none Area_SSA ./HcoDir/MERCURY/v2022-04/Aerosols_for_Hg_sim_2016.nc4
-Area_SSC    1 Y Y F2016-%m2-01T00:00:00 none none Area_SSC ./HcoDir/MERCURY/v2022-04/Aerosols_for_Hg_sim_2016.nc4
+Area_BC     1 Y Y F2016-%m2-01T00:00:00 none none Area_BC ./HcoDir/MERCURY/v2022-04/GCHP_friendly/Aerosols_for_Hg_sim_2016.nc4
+Area_BGSULF 1 Y Y F2016-%m2-01T00:00:00 none none Area_BGSULF ./HcoDir/MERCURY/v2022-04/GCHP_friendly/Aerosols_for_Hg_sim_2016.nc4
+Area_DST1   1 Y Y F2016-%m2-01T00:00:00 none none Area_DST1 ./HcoDir/MERCURY/v2022-04/GCHP_friendly/Aerosols_for_Hg_sim_2016.nc4
+Area_DST2   1 Y Y F2016-%m2-01T00:00:00 none none Area_DST2 ./HcoDir/MERCURY/v2022-04/GCHP_friendly/Aerosols_for_Hg_sim_2016.nc4
+Area_DST3   1 Y Y F2016-%m2-01T00:00:00 none none Area_DST3 ./HcoDir/MERCURY/v2022-04/GCHP_friendly/Aerosols_for_Hg_sim_2016.nc4
+Area_DST4   1 Y Y F2016-%m2-01T00:00:00 none none Area_DST4 ./HcoDir/MERCURY/v2022-04/GCHP_friendly/Aerosols_for_Hg_sim_2016.nc4
+Area_DST5   1 Y Y F2016-%m2-01T00:00:00 none none Area_DST5 ./HcoDir/MERCURY/v2022-04/GCHP_friendly/Aerosols_for_Hg_sim_2016.nc4
+Area_DST6   1 Y Y F2016-%m2-01T00:00:00 none none Area_DST6 ./HcoDir/MERCURY/v2022-04/GCHP_friendly/Aerosols_for_Hg_sim_2016.nc4
+Area_DST7   1 Y Y F2016-%m2-01T00:00:00 none none Area_DST7 ./HcoDir/MERCURY/v2022-04/GCHP_friendly/Aerosols_for_Hg_sim_2016.nc4
+Area_ICEI   1 Y Y F2016-%m2-01T00:00:00 none none Area_ICEI ./HcoDir/MERCURY/v2022-04/GCHP_friendly/Aerosols_for_Hg_sim_2016.nc4
+Area_OC     1 Y Y F2016-%m2-01T00:00:00 none none Area_OC ./HcoDir/MERCURY/v2022-04/GCHP_friendly/Aerosols_for_Hg_sim_2016.nc4
+Area_SO4    1 Y Y F2016-%m2-01T00:00:00 none none Area_SO4 ./HcoDir/MERCURY/v2022-04/GCHP_friendly/Aerosols_for_Hg_sim_2016.nc4
+Area_SSA    1 Y Y F2016-%m2-01T00:00:00 none none Area_SSA ./HcoDir/MERCURY/v2022-04/GCHP_friendly/Aerosols_for_Hg_sim_2016.nc4
+Area_SSC    1 Y Y F2016-%m2-01T00:00:00 none none Area_SSC ./HcoDir/MERCURY/v2022-04/GCHP_friendly/Aerosols_for_Hg_sim_2016.nc4
 
 # --- Aerosol radii [cm], for 2010-2019 ---
 # Consider supplying other years as necessary
-Radi_BC     1 Y Y F2016-%m2-01T00:00:00 none none Radi_BC ./HcoDir/MERCURY/v2022-04/Aerosols_for_Hg_sim_2016.nc4  
-Radi_BGSULF 1 Y Y F2016-%m2-01T00:00:00 none none Radi_BGSULF ./HcoDir/MERCURY/v2022-04/Aerosols_for_Hg_sim_2016.nc4
-Radi_DST1   1 Y Y F2016-%m2-01T00:00:00 none none Radi_DST1 ./HcoDir/MERCURY/v2022-04/Aerosols_for_Hg_sim_2016.nc4
-Radi_DST2   1 Y Y F2016-%m2-01T00:00:00 none none Radi_DST2 ./HcoDir/MERCURY/v2022-04/Aerosols_for_Hg_sim_2016.nc4
-Radi_DST3   1 Y Y F2016-%m2-01T00:00:00 none none Radi_DST3 ./HcoDir/MERCURY/v2022-04/Aerosols_for_Hg_sim_2016.nc4
-Radi_DST4   1 Y Y F2016-%m2-01T00:00:00 none none Radi_DST4 ./HcoDir/MERCURY/v2022-04/Aerosols_for_Hg_sim_2016.nc4
-Radi_DST5   1 Y Y F2016-%m2-01T00:00:00 none none Radi_DST5 ./HcoDir/MERCURY/v2022-04/Aerosols_for_Hg_sim_2016.nc4
-Radi_DST6   1 Y Y F2016-%m2-01T00:00:00 none none Radi_DST6 ./HcoDir/MERCURY/v2022-04/Aerosols_for_Hg_sim_2016.nc4
-Radi_DST7   1 Y Y F2016-%m2-01T00:00:00 none none Radi_DST7 ./HcoDir/MERCURY/v2022-04/Aerosols_for_Hg_sim_2016.nc4
-Radi_ICEI   1 Y Y F2016-%m2-01T00:00:00 none none Radi_ICEI ./HcoDir/MERCURY/v2022-04/Aerosols_for_Hg_sim_2016.nc4 
-Radi_OC     1 Y Y F2016-%m2-01T00:00:00 none none Radi_OC ./HcoDir/MERCURY/v2022-04/Aerosols_for_Hg_sim_2016.nc4 
-Radi_SO4    1 Y Y F2016-%m2-01T00:00:00 none none Radi_SO4 ./HcoDir/MERCURY/v2022-04/Aerosols_for_Hg_sim_2016.nc4
-Radi_SSA    1 Y Y F2016-%m2-01T00:00:00 none none Radi_SSA ./HcoDir/MERCURY/v2022-04/Aerosols_for_Hg_sim_2016.nc4
-Radi_SSC    1 Y Y F2016-%m2-01T00:00:00 none none Radi_SSC ./HcoDir/MERCURY/v2022-04/Aerosols_for_Hg_sim_2016.nc4
+Radi_BC     1 Y Y F2016-%m2-01T00:00:00 none none Radi_BC ./HcoDir/MERCURY/v2022-04/GCHP_friendly/Aerosols_for_Hg_sim_2016.nc4  
+Radi_BGSULF 1 Y Y F2016-%m2-01T00:00:00 none none Radi_BGSULF ./HcoDir/MERCURY/v2022-04/GCHP_friendly/Aerosols_for_Hg_sim_2016.nc4
+Radi_DST1   1 Y Y F2016-%m2-01T00:00:00 none none Radi_DST1 ./HcoDir/MERCURY/v2022-04/GCHP_friendly/Aerosols_for_Hg_sim_2016.nc4
+Radi_DST2   1 Y Y F2016-%m2-01T00:00:00 none none Radi_DST2 ./HcoDir/MERCURY/v2022-04/GCHP_friendly/Aerosols_for_Hg_sim_2016.nc4
+Radi_DST3   1 Y Y F2016-%m2-01T00:00:00 none none Radi_DST3 ./HcoDir/MERCURY/v2022-04/GCHP_friendly/Aerosols_for_Hg_sim_2016.nc4
+Radi_DST4   1 Y Y F2016-%m2-01T00:00:00 none none Radi_DST4 ./HcoDir/MERCURY/v2022-04/GCHP_friendly/Aerosols_for_Hg_sim_2016.nc4
+Radi_DST5   1 Y Y F2016-%m2-01T00:00:00 none none Radi_DST5 ./HcoDir/MERCURY/v2022-04/GCHP_friendly/Aerosols_for_Hg_sim_2016.nc4
+Radi_DST6   1 Y Y F2016-%m2-01T00:00:00 none none Radi_DST6 ./HcoDir/MERCURY/v2022-04/GCHP_friendly/Aerosols_for_Hg_sim_2016.nc4
+Radi_DST7   1 Y Y F2016-%m2-01T00:00:00 none none Radi_DST7 ./HcoDir/MERCURY/v2022-04/GCHP_friendly/Aerosols_for_Hg_sim_2016.nc4
+Radi_ICEI   1 Y Y F2016-%m2-01T00:00:00 none none Radi_ICEI ./HcoDir/MERCURY/v2022-04/GCHP_friendly/Aerosols_for_Hg_sim_2016.nc4 
+Radi_OC     1 Y Y F2016-%m2-01T00:00:00 none none Radi_OC ./HcoDir/MERCURY/v2022-04/GCHP_friendly/Aerosols_for_Hg_sim_2016.nc4 
+Radi_SO4    1 Y Y F2016-%m2-01T00:00:00 none none Radi_SO4 ./HcoDir/MERCURY/v2022-04/GCHP_friendly/Aerosols_for_Hg_sim_2016.nc4
+Radi_SSA    1 Y Y F2016-%m2-01T00:00:00 none none Radi_SSA ./HcoDir/MERCURY/v2022-04/GCHP_friendly/Aerosols_for_Hg_sim_2016.nc4
+Radi_SSC    1 Y Y F2016-%m2-01T00:00:00 none none Radi_SSC ./HcoDir/MERCURY/v2022-04/GCHP_friendly/Aerosols_for_Hg_sim_2016.nc4
 
 # --- Other fields ---
 # fOA and RH (2016) and ocean_conc (2007) are unitless; PM25 (2016) is in [ug/m3]
 # Consider supplying other years as necessary
-GLOBAL_fOA   1 Y Y F2016-%m2-01T00:00:00 none none fOA ./HcoDir/MERCURY/v2022-04/Oxidants_for_Hg_sim_2016.nc4
-GLOBAL_OCEAN 1 Y Y F2016-%m2-01T00:00:00 none none ocean_conc ./HcoDir/MERCURY/v2018-04/ocean_fixed.nc      
-GLOBAL_PM25  1 Y Y F2016-%m2-01T00:00:00 none none PM25 ./HcoDir/MERCURY/v2022-04/Oxidants_for_Hg_sim_2016.nc4
-GLOBAL_RH    1 Y Y F2016-%m2-01T00:00:00 none none RH ./HcoDir/MERCURY/v2022-04/Oxidants_for_Hg_sim_2016.nc4 
+GLOBAL_fOA   1 Y Y F2016-%m2-01T00:00:00 none none fOA ./HcoDir/MERCURY/v2022-04/GCHP_friendly/Oxidants_for_Hg_sim_2016.nc4
+GLOBAL_OCEAN 1 Y Y F2016-%m2-01T00:00:00 none none ocean_conc ./HcoDir/MERCURY/v2018-04/GCHP_friendly/ocean_fixed.nc      
+GLOBAL_PM25  1 Y Y F2016-%m2-01T00:00:00 none none PM25 ./HcoDir/MERCURY/v2022-04/GCHP_friendly/Oxidants_for_Hg_sim_2016.nc4
+GLOBAL_RH    1 Y Y F2016-%m2-01T00:00:00 none none RH ./HcoDir/MERCURY/v2022-04/GCHP_friendly/Oxidants_for_Hg_sim_2016.nc4 
 
 #==============================================================================
 # --- Data for the ocean mercury module ---

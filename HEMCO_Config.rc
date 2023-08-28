@@ -513,23 +513,23 @@ Warnings:                    3
 
 # --- Oxidant fields [molec/cm3], for 2010-2019 ---
 # Consider supplying other years as necessary
-* GLOBAL_Br    $ROOT/MERCURY/v2022-04/Oxidants_for_Hg_sim_2016.nc4  Br           2016/1-12/1/0 C xyz 1  * - 1 1
-* GLOBAL_BrO   $ROOT/MERCURY/v2022-04/Oxidants_for_Hg_sim_2016.nc4  BrO          2016/1-12/1/0 C xyz 1  * - 1 1
-* GLOBAL_CH4   $ROOT/MERCURY/v2022-04/Oxidants_for_Hg_sim_2016.nc4  CH4          2016/1-12/1/0 C xyz 1  * - 1 1
-* GLOBAL_Cl    $ROOT/MERCURY/v2022-04/Oxidants_for_Hg_sim_2016.nc4  Cl           2016/1-12/1/0 C xyz 1  * - 1 1
-* GLOBAL_ClO   $ROOT/MERCURY/v2022-04/Oxidants_for_Hg_sim_2016.nc4  ClO          2016/1-12/1/0 C xyz 1  * - 1 1
-* GLOBAL_CO    $ROOT/MERCURY/v2022-04/Oxidants_for_Hg_sim_2016.nc4  CO           2016/1-12/1/0 C xyz 1  * - 1 1
-* GLOBAL_HO2   $ROOT/MERCURY/v2022-04/Oxidants_for_Hg_sim_2016.nc4  HO2          2016/1-12/1/0 C xyz 1  * - 1 1
-* GLOBAL_NO    $ROOT/MERCURY/v2022-04/Oxidants_for_Hg_sim_2016.nc4  NO           2016/1-12/1/0 C xyz 1  * - 1 1
-* GLOBAL_NO2   $ROOT/MERCURY/v2022-04/Oxidants_for_Hg_sim_2016.nc4  NO2          2016/1-12/1/0 C xyz 1  * - 1 1
-* GLOBAL_O3    $ROOT/MERCURY/v2022-04/Oxidants_for_Hg_sim_2016.nc4  O3           2016/1-12/1/0 C xyz 1  * - 1 1
-* GLOBAL_OH    $ROOT/MERCURY/v2022-04/Oxidants_for_Hg_sim_2016.nc4  OH           2016/1-12/1/0 C xyz 1  * - 1 1
+* GLOBAL_Br    $ROOT/MERCURY/v2022-04/GCHP_Friendly/Oxidants_for_Hg_sim_2016.nc4  Br           2016/1-12/1/0 C xyz 1  * - 1 1
+* GLOBAL_BrO   $ROOT/MERCURY/v2022-04/GCHP_Friendly/Oxidants_for_Hg_sim_2016.nc4  BrO          2016/1-12/1/0 C xyz 1  * - 1 1
+* GLOBAL_CH4   $ROOT/MERCURY/v2022-04/GCHP_Friendly/Oxidants_for_Hg_sim_2016.nc4  CH4          2016/1-12/1/0 C xyz 1  * - 1 1
+* GLOBAL_Cl    $ROOT/MERCURY/v2022-04/GCHP_Friendly/Oxidants_for_Hg_sim_2016.nc4  Cl           2016/1-12/1/0 C xyz 1  * - 1 1
+* GLOBAL_ClO   $ROOT/MERCURY/v2022-04/GCHP_Friendly/Oxidants_for_Hg_sim_2016.nc4  ClO          2016/1-12/1/0 C xyz 1  * - 1 1
+* GLOBAL_CO    $ROOT/MERCURY/v2022-04/GCHP_Friendly/Oxidants_for_Hg_sim_2016.nc4  CO           2016/1-12/1/0 C xyz 1  * - 1 1
+* GLOBAL_HO2   $ROOT/MERCURY/v2022-04/GCHP_Friendly/Oxidants_for_Hg_sim_2016.nc4  HO2          2016/1-12/1/0 C xyz 1  * - 1 1
+* GLOBAL_NO    $ROOT/MERCURY/v2022-04/GCHP_Friendly/Oxidants_for_Hg_sim_2016.nc4  NO           2016/1-12/1/0 C xyz 1  * - 1 1
+* GLOBAL_NO2   $ROOT/MERCURY/v2022-04/GCHP_Friendly/Oxidants_for_Hg_sim_2016.nc4  NO2          2016/1-12/1/0 C xyz 1  * - 1 1
+* GLOBAL_O3    $ROOT/MERCURY/v2022-04/GCHP_Friendly/Oxidants_for_Hg_sim_2016.nc4  O3           2016/1-12/1/0 C xyz 1  * - 1 1
+* GLOBAL_OH    $ROOT/MERCURY/v2022-04/GCHP_Friendly/Oxidants_for_Hg_sim_2016.nc4  OH           2016/1-12/1/0 C xyz 1  * - 1 1
 
 # --- Aerosol optical depths [unitless], for 2010-2019 ---
 # Consider supplying other years as necessary
-* AOD_BC       $ROOT/MERCURY/v2022-04/Aerosols_for_Hg_sim_2016.nc4  AOD_BC       2016/1-12/1/0 C xyz 1  * - 1 1     
-* AOD_BGSULF   $ROOT/MERCURY/v2022-04/Aerosols_for_Hg_sim_2016.nc4  AOD_BGSULF   2016/1-12/1/0 C xyz 1  * - 1 1 
-* AOD_DST1     $ROOT/MERCURY/v2022-04/Aerosols_for_Hg_sim_2016.nc4  AOD_DST1     2016/1-12/1/0 C xyz 1  * - 1 1   
+* AOD_BC       $ROOT/MERCURY/v2022-04/GCHP_Friendly/Aerosols_for_Hg_sim_2016.nc4  AOD_BC       2016/1-12/1/0 C xyz 1  * - 1 1     
+* AOD_BGSULF   $ROOT/MERCURY/v2022-04/GCHP_Friendly/Aerosols_for_Hg_sim_2016.nc4  AOD_BGSULF   2016/1-12/1/0 C xyz 1  * - 1 1 
+* AOD_DST1     $ROOT/MERCURY/v2022-04/GCHP_Friendly/Aerosols_for_Hg_sim_2016.nc4  AOD_DST1     2016/1-12/1/0 C xyz 1  * - 1 1   
 * AOD_DST2     $ROOT/MERCURY/v2022-04/Aerosols_for_Hg_sim_2016.nc4  AOD_DST2     2016/1-12/1/0 C xyz 1  * - 1 1   
 * AOD_DST3     $ROOT/MERCURY/v2022-04/Aerosols_for_Hg_sim_2016.nc4  AOD_DST3     2016/1-12/1/0 C xyz 1  * - 1 1   
 * AOD_DST4     $ROOT/MERCURY/v2022-04/Aerosols_for_Hg_sim_2016.nc4  AOD_DST4     2016/1-12/1/0 C xyz 1  * - 1 1   
