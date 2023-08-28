@@ -569,10 +569,10 @@ Radi_SSC    1 Y Y F2016-%m2-01T00:00:00 none none Radi_SSC ./HcoDir/MERCURY/v202
 # --- Other fields ---
 # fOA and RH (2016) and ocean_conc (2007) are unitless; PM25 (2016) is in [ug/m3]
 # Consider supplying other years as necessary
-GLOBAL_fOA   1 Y Y F2016-%m2-01T00:00:00 none none fOA ./HcoDir/MERCURY/v2022-04/GCHP_friendly/Oxidants_for_Hg_sim_2016.nc4
-GLOBAL_OCEAN 1 Y Y F2016-%m2-01T00:00:00 none none ocean_conc ./HcoDir/MERCURY/v2018-04/GCHP_friendly/ocean_fixed.nc      
-GLOBAL_PM25  1 Y Y F2016-%m2-01T00:00:00 none none PM25 ./HcoDir/MERCURY/v2022-04/GCHP_friendly/Oxidants_for_Hg_sim_2016.nc4
-GLOBAL_RH    1 Y Y F2016-%m2-01T00:00:00 none none RH ./HcoDir/MERCURY/v2022-04/GCHP_friendly/Oxidants_for_Hg_sim_2016.nc4 
+#GLOBAL_fOA   1 Y Y F2016-%m2-01T00:00:00 none none fOA ./HcoDir/MERCURY/v2022-04/GCHP_friendly/Oxidants_for_Hg_sim_2016.nc4
+#GLOBAL_OCEAN 1 Y Y F2016-%m2-01T00:00:00 none none ocean_conc ./HcoDir/MERCURY/v2018-04/GCHP_friendly/ocean_fixed.nc      
+#GLOBAL_PM25  1 Y Y F2016-%m2-01T00:00:00 none none PM25 ./HcoDir/MERCURY/v2022-04/GCHP_friendly/Oxidants_for_Hg_sim_2016.nc4
+#GLOBAL_RH    1 Y Y F2016-%m2-01T00:00:00 none none RH ./HcoDir/MERCURY/v2022-04/GCHP_friendly/Oxidants_for_Hg_sim_2016.nc4 
 
 #==============================================================================
 # --- Data for the ocean mercury module ---
